@@ -1,4 +1,4 @@
-# rsyslog Cookbook
+# rsyslog Cookbook by ksa!
 
 [![Cookbook Version](https://img.shields.io/cookbook/v/rsyslog.svg)](https://supermarket.chef.io/cookbooks/rsyslog)
 [![CI State](https://github.com/sous-chefs/rsyslog/workflows/ci/badge.svg)](https://github.com/sous-chefs/rsyslog/actions?query=workflow%3Aci)
